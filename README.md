@@ -4,7 +4,7 @@
 Branches created should be named using the following format:
 
 ```
-{story type}-{2-3 word summary}
+{story type}-{2-3 word story summary}
 ```
 
 `story-type` - Indicates the context of the branch and should be one of:
@@ -59,7 +59,7 @@ The description of the PR should contain the following headings and correspondin
 Atomic commits should be made with the format:
 
 ```
-<type>(<scope>): <subject>``<BLANK LINE> <body> <BLANK LINE> <footer>
+<type>(<scope>): <subject>``<commit message/body description summary>
 
 ```
 
